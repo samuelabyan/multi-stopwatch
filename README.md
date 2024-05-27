@@ -10,13 +10,16 @@ This simple stopwatch allows users to add multiple stopwatches, each with its ow
 - Responsive Design: Optimized for both desktop and mobile devices.
 <br><br>
 **How to Use**
+<br>
 - Add a Stopwatch: Click the "Add Stopwatch" button to create a new stopwatch and enter name in the input field.
 - Clear Storage: Use the "Clear Storage" option to remove all stopwatches from local storage.
 - Export Data: Click "Export Data" to download your stopwatch data as a JSON file.
 - Import Data: Click "Import Data" and select a JSON file to restore stopwatches from a previous export.
 <br><br>
 **Contributing**
+<br>
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
 **License**
+<br>
 This project is licensed under the MIT License.
